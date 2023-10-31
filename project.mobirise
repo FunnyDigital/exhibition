@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site 2023-10-27 15:23",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -768,7 +768,10 @@
           "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
             "padding-bottom": "(@paddingBottom * 1rem)",
-            "background-color": "@bgColor"
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "text-align": "center"
+            }
           },
           "_name": "content5",
           "_sourceTheme": "mobirise5",
