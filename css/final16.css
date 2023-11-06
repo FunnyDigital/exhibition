@@ -495,7 +495,9 @@ h1,h2,h3,h4,h5,h6 .font-roboto,.CA_Titre{font-family:'robotothin',Arial,Helvetic
 @media (min-width:1200px){.template-full-page .container{max-width:100%}}
 .template-full-page .SRP_Liste_Article .CA_Visuel .card-img-top{width:100%}
 .srp-main a,.srp-main .Bt_Retour a{color:#000}
-.srp-main a:not(.btn):hover,.srp-main .Bt_Retour a:hover,.srp-main a:not(.btn):focus,.srp-main .Bt_Retour a:focus{color:#888}
+.srp-main a:not(.btn):hover,.srp-main .Bt_Retour a:hover,.srp-main a:not(.btn):focus,.srp-main .Bt_Retour a:focus{
+    color: #831745
+}
 /* ___ compose/magiczoom.css __ */
 .MagicZoom,.mz-figure,.mz-lens,.mz-zoom-window,.mz-loading,.mz-hint,.mz-expand .mz-expand-stage,.mz-expand .mz-expand-stage .mz-image-stage,.mz-expand .mz-expand-stage .mz-image-stage .mz-caption,.mz-thumb img,.mz-expand-thumbnails,.mz-expand-controls,.mz-button{-webkit-box-sizing:border-box;box-sizing:border-box}
 .MagicZoom,.mz-figure{display:inline-block;outline:0 !important;font-size:0 !important;line-height:100% !important;direction:ltr !important;position:relative;z-index:1;margin:0 auto;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-webkit-tap-highlight-color:transparent;-webkit-backface-visibility:hidden;backface-visibility:hidden}
